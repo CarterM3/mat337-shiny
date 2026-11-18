@@ -23,13 +23,13 @@ ui <- fluidPage(
                         "Number of bins:",
                         min = 1,
                         max = 50,
-                        value = 30)
-        ),
-            sliderInput("limits",
-                        "Specify range:",
+                        value = 30),
+            sliderInput(
+              "limits", "Specify range:",
                         min = 0,
                         max = 11000,
-                        value = range(TenMileRace)
+                        value = range(TenMileRace$net)
+            )
         ),
 
         # Show a plot of the generated distribution
