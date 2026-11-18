@@ -3,7 +3,7 @@
     "path": "/cloud/project/tenMile/app.R",
     "project_path": "tenMile/app.R",
     "type": "r_source",
-    "hash": "682435444",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1794847441499.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "31,13",
-        "scrollLine": "25"
+        "cursorPosition": "50,55",
+        "scrollLine": "46"
     },
     "folds": "",
     "lastKnownWriteTime": 1795018574,
